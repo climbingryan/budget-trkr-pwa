@@ -10,3 +10,6 @@
 
 ## About
 This app is a pwa ( progressive web app ). Which means it can be used online and offline and downloaded onto phones and or tablets. Included is a web manifest, service-worker for handeling offline functionality and an idb.js (indexedDB) file for handeling requests in offline mode 
+
+## Live Site
+Was deployed using heroku and Mongo Atlas => <a href="https://safe-oasis-51981.herokuapp.com/" target="_blank">Click here</a>
